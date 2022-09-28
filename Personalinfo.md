@@ -1,0 +1,4 @@
+Here are some courses I have taken in UCSD
+
+CSE11, CSE12, CSE15L, CSE30, CSE21, CSE100, CSE101, CSE105, CSE150B, CSE140, CSE140L
+
