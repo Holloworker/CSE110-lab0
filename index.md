@@ -26,7 +26,7 @@ git commit
 git push all
 ```
 
-#Video Game Heading
+# Video Game Heading
  My favourite Video game is War of Warcraft and game id is Holloworker; contact me if you also wow player.
  Here are three favourite games for me
  1. WOW
