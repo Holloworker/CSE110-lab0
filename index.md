@@ -16,7 +16,7 @@ The things I am doing now:
 - [] Find research 
 - [] Get A in all the classes
   
-Here is my [Fackbook profile](https://www.facebook.com/profile.php?id=100074251152509).
+Here is my [Facebook profile](https://www.facebook.com/profile.php?id=100074251152509).
 
 Here are some of the git commands:
 ```
