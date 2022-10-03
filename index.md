@@ -12,7 +12,7 @@
 [Go to Video game section](#video-game-heading)
   
 The things I am doing now:
-- [] Find internship
+- [x] Find internship
 - [] Find research 
 - [] Get A in all the classes
   
