@@ -1,7 +1,7 @@
 # The User Page
 **I am a thrid-year UCSD computer science student which is _extremely interested_ in mechine learning and algorithm.**
 ***If you are also an algorithm guy or you are currently doing meachine learning projects, welcome to message me***
-[Courseinfo of myself](CSE110-lab0/Personalinfo.md)
+[Courseinfo of myself](Personalinfo.md)
 
 
 >Reading books and playing video games is also my hobby, especially science fiction 
